@@ -16,23 +16,23 @@ The goal of this project is to validate task management functionality in a demo 
 - Robust locator strategies to ensure reliable assertions
 
 ## 📁 Project Structure
-
+```
 playwright-test/
 │
-├── tests/              # Test specifications
-│   └── taskValidation.spec.ts
+├── tests/ # Test specifications
+│ └── taskValidation.spec.ts
 │
-├── pages/              # Page Object Models
-│   ├── loginPage.ts
-│   └── boardPage.ts
+├── pages/ # Page Object Models
+│ ├── loginPage.ts
+│ └── boardPage.ts
 │
-├── data/               # Test data
-│   └── testData.json
+├── data/ # Test data
+│ └── testData.json
 │
 ├── playwright.config.ts
 ├── package.json
 └── README.md
-
+```
 ## ▶️ Running the Tests
 
 1. Install dependencies:
