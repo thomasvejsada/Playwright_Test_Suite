@@ -1,3 +1,5 @@
-/Users/thomasvejsada/playwright-test/node_modules
-/Users/thomasvejsada/playwright-test/test-results
-/Users/thomasvejsada/playwright-test/package-lock.json
+node_modules/
+test-results/
+playwright-report/
+package-lock.json
+.DS_Store
